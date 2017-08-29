@@ -1,0 +1,21 @@
+{
+  "name": "pseudo-random",
+  "version": "0.2.0",
+  "description": "pseudo random number generator park-miller-carta / lehmer version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prng",
+    "seed",
+    "seedable",
+    "random",
+    "lehmer",
+    "park",
+    "miller",
+    "carta"
+  ],
+  "author": "tvalentius",
+  "license": "MIT"
+}
